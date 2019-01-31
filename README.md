@@ -1,2 +1,2 @@
-# helloWorld
-I'm a brazilian computer programmer and I really want to lear about data science
+# hello World!
+I'm a Brazilian computer programmer and I really want to learn about data science and bioinformatics.
